@@ -1,0 +1,10 @@
+name = "Deprecations"
+uuid = "d95a29b6-201d-11e9-1fcd-05a8d38e42f7"
+authors = ["Lyndon White <lyndon.white@invenialabs.co.uk>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
